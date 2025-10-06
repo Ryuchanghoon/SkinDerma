@@ -26,9 +26,10 @@ AI 영상분석 기반 피부질환 분석 및 의약품 추천 시스템
 </br>
 
 - <b>피부질환 영상분석 흐름도</b>
-<img src="https://github.com/user-attachments/assets/52ba78e9-9055-4fdd-b232-0ebeae691657" width="100%" />
 
- 
+<img src="https://github.com/user-attachments/assets/504b8c94-1417-4f20-8ac5-9e26923dc131" width="100%" />
+
+
 </br>
 </br>
 
